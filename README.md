@@ -6,6 +6,6 @@
 
 ### User Interface
 ![picture](https://github.com/KWiduch/restaurant_menu_react/blob/main/public/menuInterfejs.png )
-https://github.com/KWiduch/restaurant_menu_react/blob/main/public/menuInterfejs2.png </br>
+![picture](https://github.com/KWiduch/restaurant_menu_react/blob/main/public/menuInterfejs2.png) </br>
 
 
