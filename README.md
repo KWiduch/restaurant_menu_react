@@ -5,5 +5,7 @@
 * allowing user to filter meals for example lunch or shake
 
 ### User Interface
-https://github.com/KWiduch/register_window_react/blob/main/public/interfejs.png?raw=true </br>
+https://github.com/KWiduch/restaurant_menu_react/blob/main/public/menuInterfejs.png 
+https://github.com/KWiduch/restaurant_menu_react/blob/main/public/menuInterfejs2.png </br>
+
 
