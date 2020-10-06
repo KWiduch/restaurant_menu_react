@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  --main-color: #d4af37;
+  --main-color-darker: #b08f26;
+}
+
+.Dinner {
+  display: none;
+}
+.Lunch {
+  display: none;
+}
+.Shakes {
+  display: none;
+}
+.Breakfast {
+  display: none;
+}
+
+.meal__container {
+  margin-top: 40px;
+  margin-left: 75px;
+  width: 655px;
+  height: 120px;
+  display: flex;
+}
+
+.meal__photo img {
+  height: 120px;
+  width: 190px;
+  object-fit: cover;
+  box-shadow: none;
+  border: solid 3px var(--main-color-darker);
+  border-radius: 5px;
+}
+
+.meal__namePriceDescription {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.meal__namePrice {
+  display: flex;
+  font-weight: 600;
+  margin: 0px 10px;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgray;
+}
+
+.meal__price {
+  color: var(--main-color);
+}
+
+.meal__description {
+  padding: 10px;
+}
