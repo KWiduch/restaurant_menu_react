@@ -1,7 +1,7 @@
 # MenuApp
 ## app allowing user to look for meal in the menu 
 ### What it does: </br>
-* showing all meals from pseudo base
+* showing all meals from pseudo database
 * allowing user to filter meals for example lunch or shake
 
 ### User Interface
